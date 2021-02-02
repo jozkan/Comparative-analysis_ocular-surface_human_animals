@@ -1,0 +1,47 @@
+,Ind,Type,Species,Region
+1,F06,Test,Human,Human_fornix
+2,F07,Test,Human,Human_fornix
+3,F08,Test,Human,Human_fornix
+4,F09,Test,Human,Human_fornix
+5,F11,Test,Human,Human_fornix
+6,F14,Test,Human,Human_fornix
+7,F18,Test,Human,Human_fornix
+8,F19,Test,Human,Human_fornix
+9,F21,Test,Human,Human_fornix
+10,F22,Test,Human,Human_fornix
+11,G01,Test,Guinea Pig,Guinea_pig limbus
+12,G02,Test,Guinea Pig,Guinea_pig limbus
+13,G03,Test,Guinea Pig,Guinea_pig limbus
+14,G05,Test,Guinea Pig,Guinea_pig limbus
+15,G07,Test,Guinea Pig,Guinea_pig limbus
+16,G09,Test,Guinea Pig,Guinea_pig limbus
+17,G10,Test,Guinea Pig,Guinea_pig limbus
+18,L02,Test,Human,Human_limbus
+19,L03,Test,Human,Human_limbus
+20,L04,Test,Human,Human_limbus
+21,L06,Test,Human,Human_limbus
+22,L07,Test,Human,Human_limbus
+23,L08,Test,Human,Human_limbus
+24,L11,Test,Human,Human_limbus
+25,L13,Test,Human,Human_limbus
+26,L14,Test,Human,Human_limbus
+27,L15,Test,Human,Human_limbus
+28,L16,Test,Human,Human_limbus
+29,L17,Test,Human,Human_limbus
+30,L18,Test,Human,Human_limbus
+31,L20,Test,Human,Human_limbus
+32,L21,Test,Human,Human_limbus
+33,L22,Test,Human,Human_limbus
+34,L23,Test,Human,Human_limbus
+35,M02,Test,Mouse,Mouse_limbus
+36,M03,Test,Mouse,Mouse_limbus
+37,M04,Test,Mouse,Mouse_limbus
+38,M07,Test,Mouse,Mouse_limbus
+39,M08,Test,Mouse,Mouse_limbus
+40,M09,Test,Mouse,Mouse_limbus
+41,R03,Test,Rabbit,Rabbit_limbus
+42,R04,Test,Rabbit,Rabbit_limbus
+43,R05,Test,Rabbit,Rabbit_limbus
+44,R06,Test,Rabbit,Rabbit_limbus
+45,R08,Test,Rabbit,Rabbit_limbus
+46,R10,Test,Rabbit,Rabbit_limbus
